@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sushant0808/sushant0808/main/business-data-analysis.jpg" 
-       alt="Data Analyst Banner" width="70%">
+       alt="Data Analyst Banner" width="50%">
 </p>
 
 
