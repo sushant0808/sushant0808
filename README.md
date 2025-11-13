@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8fb252d6c-hero-banner" 
+  <img src="https://github.com/sushant0808/sushant0808/blob/main/business-data-analysis.jpg" 
        alt="Data Analyst Banner" width="100%">
 </p>
 
