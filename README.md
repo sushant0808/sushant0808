@@ -2,7 +2,7 @@
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/sushant0808/sushant0808/blob/main/business-data-analysis.jpg" 
-       alt="Data Analyst Banner" width="100%">
+       alt="Data Analyst Banner" width="50%" height="50%">
 </p>
 
 # 👋 Hi, I'm **Sushant More**
