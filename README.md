@@ -47,8 +47,6 @@ I specialize in:
 **Tools & Platforms:**  
 <img src="https://skillicons.dev/icons?i=git" height="40"/>
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
-<img src="https://img.shields.io/badge/Databricks-orange?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>
 
 </p>
 
