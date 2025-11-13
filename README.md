@@ -1,9 +1,16 @@
 
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/sushant0808/sushant0808/blob/main/business-data-analysis.jpg" 
        alt="Data Analyst Banner" width="50%" height="50%">
+  
+</p> -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sushant0808/sushant0808/main/business-data-analysis.jpg" 
+       alt="Data Analyst Banner" width="70%">
 </p>
+
 
 # 👋 Hi, I'm **Sushant More**
 ### **Data Analyst | Power BI | SQL | Excel | Python**
