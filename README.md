@@ -66,8 +66,6 @@ I specialize in:
 - Implemented a **Star Schema** data model with SQL Server views  
 - Delivered deep insights on Revenue, Profit, Orders, Customer Behavior  
 
-📷 **Dashboard Snapshots:**  
-*(Add screenshots from your repo here)*  
 
 ---
 
